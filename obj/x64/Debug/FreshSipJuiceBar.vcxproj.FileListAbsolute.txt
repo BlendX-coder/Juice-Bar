@@ -1,0 +1,5 @@
+C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\bin\x64\Debug\FreshSipJuiceBar.exe.config
+C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\obj\x64\Debug\FreshSipJuiceBar.vcxproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\obj\x64\Debug\FreshSipJuiceBar.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\obj\x64\Debug\FreshSipJuiceBar.exe.config
+C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\obj\x64\Debug\FreshSip.41A11DAD.Up2Date

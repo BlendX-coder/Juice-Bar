@@ -1,0 +1,39 @@
+﻿  MainForm.cpp
+  DatabaseManager.cpp
+  ProductService.cpp
+  CustomerService.cpp
+  InventoryService.cpp
+  OrderService.cpp
+  ReportService.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FreshSipJuiceBar.vcxproj -> C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\bin\x64\Debug\FreshSipJuiceBar.exe
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Banners\juice_bar_banner.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Banners\pos_terminal.jpg
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\avocado_smoothie.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\banana_smoothie.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\chocolate_shake.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\fruit_assortment.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\green_apple_juice.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\mango_juice.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\mixed_fruit_juice.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\orange_juice.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\pineapple_juice.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\strawberry_cooler.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\strawberry_juice.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\vanilla_berry_shake.png
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\Assets\Products\watermelon_juice.png
+  15 File(s) copied
+          1 file(s) copied.
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\BouncyCastle.Crypto.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\Google.Protobuf.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\K4os.Compression.LZ4.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\K4os.Compression.LZ4.Streams.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\K4os.Hash.xxHash.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\MySql.Data.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\System.Buffers.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\System.Memory.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\System.Runtime.CompilerServices.Unsafe.dll
+  C:\Users\admin\Downloads\Juice_Bar\Juice_Bar\FreshSip_GitHub_Submission\FreshSipJuiceBar\lib\System.Threading.Tasks.Extensions.dll
+         10 file(s) copied.
