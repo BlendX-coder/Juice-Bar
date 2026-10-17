@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{A1B2C3D4-1111-2222-3333-444455556666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{A1B2C3D4-2222-3333-4444-555566667777}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Services">
+      <UniqueIdentifier>{A1B2C3D4-3333-4444-5555-666677778888}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Forms">
+      <UniqueIdentifier>{A1B2C3D4-4444-5555-6666-777788889999}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data\DatabaseManager.cpp">
+      <Filter>Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\ProductService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\CustomerService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\InventoryService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\OrderService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="Services\ReportService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Forms\ReceiptForm.h">
+      <Filter>Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Person.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Customer.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Staff.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Product.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Ingredient.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\OrderItem.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\Order.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Models\PaymentMethod.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Data\DatabaseManager.h">
+      <Filter>Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\ProductService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\CustomerService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\InventoryService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\OrderService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="Services\ReportService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
